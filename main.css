@@ -1,0 +1,30 @@
+h1{
+    color: cornflowerblue;
+    text-align: center;
+}
+
+.form_wrapper{
+    float: left;
+    border: solid 1px lightblue;
+    margin: 0 2%;
+    padding: 20px;
+    width: 41%;
+}
+
+.tweets_wrapper{
+    float: left;
+    border: solid 1px lightblue;
+    margin: 0 2%;
+    padding: 20px;
+    width: 41%;
+}
+
+.single_tweet{
+    border: solid 1px lightgray;
+    padding: 10px;
+}
+
+.remove_tweet{
+    float: right;
+    color: red;
+}
